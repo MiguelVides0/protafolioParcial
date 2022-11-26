@@ -1,0 +1,36 @@
+.hobbies{
+    padding: 45px 0;
+    background: #eaaa1e;
+    font-family: 'Cabin', sans-serif;
+}
+
+.hobbies__contenido{
+    width: 1250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hobbies__titulo{
+    font-size: 2rem;
+}
+
+.hobbies__icons{
+    display: flex;
+    margin-top: 25px;
+}
+
+.hobbies__card{
+    width: 20%;
+    background: #ed870d;
+    margin: 15px 15px;
+    padding: 20px 0;
+}
+
+.hobbies__card img{
+    width: 32%;
+}
+
+.hobbie__card-titulo{
+    padding: 10px 10px;
+    font-size: 20px;
+}

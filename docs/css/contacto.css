@@ -1,0 +1,39 @@
+.contacto{
+    padding: 45px 0;
+    background: #e9b225;
+    font-family: 'Cabin', sans-serif;
+}
+
+.contacto__contenido{
+    text-align: center;
+    width: 1250px;
+    margin: 0 auto;
+}
+
+.contacto__titulo{
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.contacto__container{
+    display: flex;
+}
+
+.contacto__formulario{
+    margin-left: 15px;
+    text-align: left;
+}
+
+.contacto__texto{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+.form__pregunta{
+    font-size: 18px;
+    padding: 15px 0 15px 0;
+}
+
+#mensaje{
+    resize: none;
+}

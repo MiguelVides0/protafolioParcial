@@ -1,0 +1,45 @@
+.header{
+    background: #ed7e0b;
+}
+.header__datos{
+    display: flex;
+    padding: 2rem 0;
+    align-items: center;
+    justify-content: space-between;
+    width: 1250px;
+    margin: 0 auto;
+    font-family: 'Cabin', sans-serif;
+}
+.header__principal{
+    display: flex;
+    align-items: center;
+}
+.header__logo{
+    width: 35%;
+}
+
+.header__texto{
+    font-size: 30px;
+    font-family: 'Xanh Mono', monospace;
+    margin-left: 5px;
+}
+
+.header__navList{
+    display: flex;
+}
+
+.header__navItem{
+    padding: 0 1rem;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+}
+
+.header__navItem:hover{
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.correo{
+    font-weight: 900;
+}
+

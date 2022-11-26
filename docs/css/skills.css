@@ -1,0 +1,36 @@
+.skills{
+    padding: 40px 0;
+    background: #eaaa1e;
+    font-family: 'Cabin', sans-serif;
+}
+
+.skills__contenido{
+    width: 1250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skills__titulo{
+    font-size: 2rem;
+}
+
+.skills__icons{
+    display: flex;
+    margin-top: 25px;
+}
+
+.skills__card{
+    width: 20%;
+    background: #ed870d;
+    margin: 15px 15px;
+    padding: 20px 0;
+}
+
+.skills__card img{
+    width: 30%;
+}
+
+.skill__card-titulo{
+    padding: 10px 10px;
+    font-size: 20px;
+}

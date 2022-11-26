@@ -1,0 +1,20 @@
+.sobreMi{
+    background: #e9b225;
+    padding: 30px 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+.sobre__contenido{
+    width: 1250px;
+    margin: 0 auto;
+}
+.sobre__titulo{
+    font-size: 2rem;
+    width: 70%;
+}
+
+.sobre__texto{
+    width: 70%;
+    font-size: 20px;
+    padding: 15px 0;
+}

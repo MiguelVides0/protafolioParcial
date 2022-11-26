@@ -1,0 +1,65 @@
+.formacion{
+    padding: 45px 0;
+    background: #e9b225;
+    font-family: 'Cabin', sans-serif;
+}
+
+.formacion__contenido{
+    width: 1250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.formación__titulo{
+    font-size: 2rem;;
+}
+
+.formacion__container{
+    display: flex;
+    margin-top: 25px;
+}
+.formacion__card-texto{
+    text-align: left;
+    margin: 10px 0 10px 0;
+    padding: 20px;
+}
+.formacion__card-one{
+    background: #f9c236;
+    margin: 0 15px 0 15px;
+}
+
+.img__one{
+    margin: 15px 0 25px 0;
+}
+
+.img__secre{
+    margin: 15px 0 25px 0;
+}
+
+.formacion__card-secre{
+    background: #f9c236;
+}
+
+.formacion__card-unicaes{
+    background: #f9c236;
+}
+
+.formacion__card-titulo{
+    font-size: 32px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+
+.formacion__card-sitio{
+    font-size: 26px;
+    color: #3f3e3e;
+}
+.formacion__card-tiempo{
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.formacion__card-contenido{
+    font-size: 20px;
+}
+
